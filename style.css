@@ -1,0 +1,12 @@
+/*body 
+{
+    //background-image:url("Images/background.png") 
+
+}*/
+.game
+{
+    width : 1000 ;
+    height:900 ;
+    position : relative ;
+   left: 1100px ; bottom: -400px
+}
